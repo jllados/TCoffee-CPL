@@ -7,7 +7,7 @@ Multiple Alignments of DNA, RNA, Protein Sequences and Structures.
 
 Prerequisites
 --------------
-T-Coffee compilation requires the following tools installed on your system ``make``, ``gcc-c++`` and ``Glib 2.14 or superior``. 
+T-Coffee compilation requires the following tools installed on your system ``make``, ``gcc-c++`` and ``R``. 
 
 
 Compile 
