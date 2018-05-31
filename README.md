@@ -1,4 +1,4 @@
-TCoffee v.11 with Clustering Pairwise Library reduction - JCB 2016
+TCoffee v.11 with Clustering Pairwise Library reduction
 TCoffee-CPL
 =========
 T-Coffee is a collection of tools for Computing, Evaluating and Manipulating 
